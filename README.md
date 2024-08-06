@@ -5,8 +5,8 @@
 
 ## II.	List Actors of the system and their use cases:
     1- one:	
-##    2- two:
-##    3- three:
-##    4- four:
+    2- two:
+    3- three:
+    4- four:
 
 ## III.	use-case:
